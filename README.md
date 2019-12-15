@@ -1,7 +1,7 @@
 # Oxygen-X
 Oxygen X is a wrapper "written" (skidded) by a person named iDev.
 The wrapper is free and has no ads/key system so it is easy to use.
-
+Go use it, it is pretty stable and cool! (the source code is probably rewritten by now, this is 2-3 weeks old!)
 # Credits
 - iDev (Main Developer)
 - Ringarang (Developer)
